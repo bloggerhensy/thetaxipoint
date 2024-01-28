@@ -1,1 +1,1 @@
-# thetaxipoint
+Booking a ride with https://thetaxipoint.co.uk/ has never been easier! Our online booking system allows you to easily and quickly reserve your ride, with just a few clicks. We value your time and convenience, which is why we have made our booking process simple, intuitive, and accessible from anywhere, anytime.
